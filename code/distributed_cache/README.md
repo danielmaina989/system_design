@@ -51,10 +51,4 @@ A distributed cache is a system that stores data across multiple nodes to provid
 - `REPLICATION_FACTOR`: Number of replicas.
 - `EVICTION_POLICY`: LRU, LFU, etc.
 
-## Contributing
 
-Contributions are welcome! Please open issues or submit pull requests.
-
-## License
-
-MIT License
